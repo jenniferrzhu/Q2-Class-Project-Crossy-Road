@@ -16,7 +16,7 @@ In this game, the chicken tries to cross the road to return to its pagoda while 
 ## :seedling: Classes
 
 ### Chicken Class
-![This is an image](/Q2-Project-Zhu-Zhu/src/imgs/ChickenFinal.png)
+![/Q2 Project/src/imgs/ChickenFinal.png](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/ChickenFinal.png)
 
 This class is for the main character: the chicken. This was drawn in Pixil Art from a reference photo of the japanese chicken in the original Crossy Road game. Only one chicken object is created in frame.
 
