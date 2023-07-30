@@ -1,6 +1,6 @@
 # :cherry_blossom: Crossy Japan :cherry_blossom:
 
-A computer game that is inspired by Crossy Road. 
+A computer game that is inspired by Crossy Road for AP Computer Science A. 
 
 ![/Q2 Project/src/imgs/gameGIF.gif](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/gameGIF.gif)
 
