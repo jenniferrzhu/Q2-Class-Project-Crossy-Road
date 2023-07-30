@@ -2,7 +2,7 @@
 
 A computer game that is inspired by Crossy Road. 
 
-![This is an image](/Q2-Project/src/imgs/gameGIF.gif)
+![This is an image](/Q2 Project/src/imgs/gameGIF.gif)
 
 ## :seedling: Game Description
 
