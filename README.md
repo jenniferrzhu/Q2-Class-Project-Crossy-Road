@@ -48,17 +48,17 @@ This class, including the Grass and Grass2 class, is for the dirt roads and gras
 The paint method paints all of the objects created in the Frame class to appear on the screen. This method also updates the x and y of the objects so that all objects are able to move.
 
 ### Reset Method
-![/Q2 Project/src/imgs/reset.png](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/reset.png)
+![/Q2 Project/src/imgs/reset.PNG](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/reset.PNG)
 
 This method returns all of the objects to its original position, and it sets the score back to 0.
 
 ### Repeating Cars Method
-![/Q2 Project/src/imgs/carRepeat.png](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/carRepeat.png)
+![/Q2 Project/src/imgs/carRepeat.PNG](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/carRepeat.PNG)
 
 Because there is no set pattern for the roads, the cars rely on the position of the road for its x and y. This method ensures that the cars loop back around to re-appear on screen after it passes a certain x-value, and when it returns, the x and y values update according to the road's x and y.
 
 ### Collide Method
-![/Q2 Project/src/imgs/collide.png](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/collide.png)
+![/Q2 Project/src/imgs/collide.PNG](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/collide.PNG)
 
 This method is a major part of the game because it determines if the chicken was able to successfully pass all of the obstacles. This method checks for the collision of the chicken with the car using if statements. If the circumstances satisfy the condition, then the entire game resets.  
 
