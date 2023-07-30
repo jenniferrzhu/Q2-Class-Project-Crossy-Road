@@ -43,7 +43,7 @@ This class, including the Grass and Grass2 class, is for the dirt roads and gras
 ## :seedling: Methods
 
 ### Paint Method
-![/Q2 Project/src/imgs/paint.png](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/paint.png)
+![/Q2 Project/src/imgs/paint.PNG](https://github.com/jenniferrzhu/Q2-Class-Project-Crossy-Road/blob/main/Q2%20Project/src/imgs/paint.PNG)
 
 The paint method paints all of the objects created in the Frame class to appear on the screen. This method also updates the x and y of the objects so that all objects are able to move.
 
